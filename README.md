@@ -14,4 +14,4 @@ u can download the ipynb file and run on local or colab
 note: 
   1. im not code this from scratch
   2. im still beginner at this topic (ML) :'D
-  3. well u may see there is no folder here ncs if u run it, it will make a new folders and files for u like data set, samples, split data, and output in wav dependencies
+  3. well u may see there is no folder here because if u run it, it will make a new folders and files for u like dataset, samples, splitdata, and output in wav dependencies
