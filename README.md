@@ -15,3 +15,4 @@ note:
   1. im not code this from scratch
   2. im still beginner at this topic (ML) :'D
   3. well u may see there is no folder here because if u run it, it will make a new folders and files for u like dataset, samples, splitdata, and output in wav dependencies
+  4. oh on u can see how it works on https://github.com/fyodor-Izydor/ML/blob/main/map.drawio (map.drawio) u can download it and see
